@@ -3,20 +3,20 @@ In this hands-on project, we will train a Long Short Term (LSTM) Network to perf
 
 In this project, we completed the following tasks:
 
-Understand the problem statement and business case  
+1-Understand the problem statement and business case  
 
-Import libraries/datasets and perform preliminary data processing
+2-Import libraries/datasets and perform preliminary data processing
 
-Perform data cleaning
+3-Perform data cleaning
 
-Visualize datasets
+4-Visualize datasets
 
-Prepare the data by performing tokenization and padding
+5-Prepare the data by performing tokenization and padding
 
-Understand the intuition behind recurrent neural networks
+6-Understand the intuition behind recurrent neural networks
 
-Understand the intuition behind LSTMs
+7-Understand the intuition behind LSTMs
 
-Train an LSTM Model
+8-Train an LSTM Model
 
-Assess/evaluate trained model performance
+9-Assess/evaluate trained model performance
